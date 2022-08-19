@@ -1,0 +1,20 @@
+{
+  "name": "create-static-website",
+  "version": "0.1.1.beta",
+  "description": "🚀 Easily create static sites under 1 minute.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "cli": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^9.1.0",
+    "nanospinner": "^1.1.0"
+  }
+}
